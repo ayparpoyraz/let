@@ -7,7 +7,7 @@ Made for learning Python, HTTP requests, and web security.
 ## Usage
 
 ```bash
-python3 let.py \
+python3 main.py \
     --url http://127.0.0.1:5000 \
     --username ayparr \
     --range 10000 \
