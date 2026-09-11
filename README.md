@@ -1,4 +1,4 @@
-# Let
+# res200
 
 A simple Python HTTP login request-response tool.
 
