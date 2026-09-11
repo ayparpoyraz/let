@@ -1,8 +1,6 @@
 # res200
 
-A simple Python HTTP login request-response tool.
-
-Made for learning Python, HTTP requests, and web security.
+Made for HTTP requests-res, and web security.
 
 ## Usage
 
